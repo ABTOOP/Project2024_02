@@ -27,3 +27,7 @@ npm run dev
 ```sh
 npm run build
 ```
+### Run Json file
+```sh
+json-server --watch src/db/db.json
+```
